@@ -5,7 +5,7 @@
 Ejecutar desde la ubicación del proyecto
 
 ```bash
-virtualenv env
+virtualenv venv
 ```
 
 ## Activar entorno virtual
@@ -20,6 +20,12 @@ activate.ps1
 cmd - simbolos del sistema
 ```bash
 activate.bat
+```
+## Desactivar entorno virtual
+
+powershell o simbolos del sistema cmd
+```bash
+deactivate
 ```
 
 ## Instalación de librerias
